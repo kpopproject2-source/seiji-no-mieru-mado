@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-30T18:10:42.489Z",
+  "builtAt": "2026-10-30T18:38:05.597Z",
   "dataUpdatedAt": "2026-10-31",
   "appVersion": "0.3.0",
   "candidateCount": 1284,
@@ -37,8 +37,8 @@
     },
     {
       "file": "catalog.json",
-      "bytes": 3533452,
-      "sha256": "a32ad4d9462f6d6b20cfa56759e198215ff1e64bf9d802f36ef67d5389197e2d"
+      "bytes": 3533476,
+      "sha256": "5cc1dcfa9709cbaec33c61983ab253b528807160bbc58bba71394367d43508a8"
     },
     {
       "file": "demo.json",
