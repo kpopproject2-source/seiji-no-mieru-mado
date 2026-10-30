@@ -1,0 +1,59 @@
+{
+  "builtAt": "2026-10-30T18:10:42.489Z",
+  "dataUpdatedAt": "2026-10-31",
+  "appVersion": "0.3.0",
+  "candidateCount": 1284,
+  "personalPromiseCount": 63,
+  "files": [
+    {
+      "file": "index.html",
+      "bytes": 1601,
+      "sha256": "ff05249b7f22715df61e1af6eaf1dee2414fbc2b9d42ac72ac57195e49c7db1d"
+    },
+    {
+      "file": "app.js",
+      "bytes": 64069,
+      "sha256": "a32ba16addaa9864a4653d00af86f8a7498d8e6016bd359e34961ba114da3ffc"
+    },
+    {
+      "file": "core.mjs",
+      "bytes": 11401,
+      "sha256": "2a0b8fd865a00339ea7575be7e90de1c835f37f364a72f8658685df95f39188a"
+    },
+    {
+      "file": "styles.css",
+      "bytes": 21441,
+      "sha256": "d98b4e6699f66f4579eb7cf29dad0d6124d0ad23520ced473aa88635b4fa865f"
+    },
+    {
+      "file": "icon.svg",
+      "bytes": 291,
+      "sha256": "fdfbbc6d44aa2f61426914c9cc97ecdb51806d535f08f9194afd3fca263bbb9c"
+    },
+    {
+      "file": "manifest.webmanifest",
+      "bytes": 265,
+      "sha256": "2118fc88a70fa40714c1ac1e780f82c4ff3b810867a0c449da8ec3443c5ff6a7"
+    },
+    {
+      "file": "catalog.json",
+      "bytes": 3533452,
+      "sha256": "a32ad4d9462f6d6b20cfa56759e198215ff1e64bf9d802f36ef67d5389197e2d"
+    },
+    {
+      "file": "demo.json",
+      "bytes": 6500,
+      "sha256": "99514396e110a09a80425941b91909ed834c707fb11c322457c05a8c115094c2"
+    },
+    {
+      "file": ".nojekyll",
+      "bytes": 41,
+      "sha256": "271ea7cadba58a51dc7078125ed77bc6e0db03ceccd1136ce4ef92cb4ac3630f"
+    },
+    {
+      "file": "README.md",
+      "bytes": 1656,
+      "sha256": "cceacf34fdd5fb654d9330cad0af131ee06de145814b8ed2ad02f0ee022a6637"
+    }
+  ]
+}
